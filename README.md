@@ -8,7 +8,7 @@ This project was done as apart of an academic project.<br><br> **Team members:**
 1. Classifies 39 classes with 91.84% accuracy
 2. Concept of CNN used
 3. Uses libraries such as Pytorch, NumPy,PIL, Matplotlib
-4. Uses 8 convolutional layers
+4. Uses 3 convolutional layers
 5. Loss function: Cross-entropy and Optimiser: Adam
 
 ## 🌱Visualisations
